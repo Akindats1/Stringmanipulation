@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.AssemblyInfo.cs
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\bin\Debug\net6.0\StringManipulationApp.exe
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\bin\Debug\net6.0\StringManipulationApp.deps.json
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\bin\Debug\net6.0\StringManipulationApp.runtimeconfig.json
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\bin\Debug\net6.0\StringManipulationApp.dll
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\bin\Debug\net6.0\StringManipulationApp.pdb
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.dll
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\refint\StringManipulationApp.dll
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.pdb
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\StringManipulationApp.genruntimeconfig.cache
+C:\Users\user\Desktop\StringManipulation\StringManipulationApp\obj\Debug\net6.0\ref\StringManipulationApp.dll
