@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Text;
-
 namespace StringManipulationApp
 {
     public class Helper
@@ -31,7 +25,7 @@ namespace StringManipulationApp
             string newA = "";
             string newB = "";
             int i;
-            for( i = 0; i <= firstArray.Length - 1; i++)
+            for( i = 0; i < firstArray.Length; i++)
             {
              
                 if(i % 2 == 0)
