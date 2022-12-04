@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Text;
 
 namespace StringManipulationApp
 {
@@ -22,7 +23,7 @@ namespace StringManipulationApp
 
             string secondText = second.Replace(" ", string.Empty);
 
-            Console.WriteLine(firstText);
+           
 
             var firstArray = firstText.ToCharArray();
             var secondArray = secondText.ToCharArray();
@@ -32,24 +33,34 @@ namespace StringManipulationApp
             int i;
             for( i = 0; i <= firstArray.Length - 1; i++)
             {
-                bool even = i % 2 == 0;
-                bool odd = i % 2 != 0;
-                if(even)
+             
+                if(i % 2 == 0)
                 {
                     newA += firstArray[i]  + "" + secondArray[i];
                 
                 }
-                else if(odd)
+                else 
                 {
                     newB += firstArray[i] + "" + secondArray[i];
                 }
 
-                Console.WriteLine(newA);
-                Console.WriteLine(newB);
-                Console.WriteLine(newA + "" + newB);
+                var result = newA + "" + newB;
+                Console.WriteLine(result);
 
-                string reversedA = String.Join(first, "", second);
-                Console.WriteLine(reversedA);
+                
+                
+                int decodeFirstLength = half / 2;
+                int decodeSecondLength = length - decodeFirstLength ;
+                char[] decodedfirstStr = firstArray;
+                char[] decodedSecondStr = secondArray;
+                string[] decodedResult = new string[] {new string(decodedfirstStr), new string(decodedSecondStr)};
+
+                foreach (var item in decodedResult)
+                {
+                    Console.WriteLine(item);
+                }
+
+               
             }
 
 
